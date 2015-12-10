@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1448842539 source:c:\users\jakub\desktop\fastdodge\main.cpp
+	<stdio.h>
+	<string.h>
+	<graphics.h>
+	<ctime>
+	<iostream>
+
